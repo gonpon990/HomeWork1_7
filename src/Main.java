@@ -4,6 +4,8 @@ public class Main {
         Hero[] heroes = {new Magic(), new Medic(), new Warrior()};
 
         for (Hero hero : heroes) {
+
+
             hero.applySuperAbility();
         }
     }
