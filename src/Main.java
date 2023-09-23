@@ -6,6 +6,7 @@ public class Main {
         for (Hero hero : heroes) {
 
 
+
             hero.applySuperAbility();
         }
     }
